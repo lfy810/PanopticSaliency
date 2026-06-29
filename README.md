@@ -1,0 +1,2 @@
+# PanopticSaliency
+基于Transformer的全景图像显著性排序
